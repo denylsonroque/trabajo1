@@ -1,0 +1,6 @@
+def multiplicacion ():
+	print 2+5
+def multiplicar():
+	paint 3*6
+
+suma()                          
